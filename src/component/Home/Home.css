@@ -1,0 +1,14 @@
+img{
+    width: 400px;
+}
+.bg-color{
+    background-color: rgba(44, 44, 102, 0.644);
+    padding-bottom: 40px;
+}
+.detials{
+    background-color: whitesmoke;
+}
+.detials p{
+    color: gray;
+    font-weight: bold;
+}

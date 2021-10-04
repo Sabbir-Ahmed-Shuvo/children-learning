@@ -1,0 +1,20 @@
+.menu-container{
+    background-color: darkcyan;
+    padding: 10px;
+}
+.items {
+    list-style: none;
+    margin-right: 30px;
+    font-size: 22px;
+    font-weight: 500;
+    color: rgb(218, 214, 214);
+    cursor: pointer;
+    padding: 5px;
+    text-decoration: none;
+  }
+  .items li{
+      display: inline;
+  }
+  .items:hover {
+    color: rgb(221, 5, 5);
+  }
