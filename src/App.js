@@ -31,7 +31,7 @@ function App() {
         <Route path="/detials">
            <Detials></Detials>
         </Route>
-        <Route path="*">
+        <Route exact path="*">
           <NotFound></NotFound>
         </Route>
       </Switch>
