@@ -15,7 +15,7 @@ const About = () => {
                         <div className="card">
                             <div className="card-body">
                                 <h5 className="card-title">Chess Learning Club</h5>
-                                <p className="card-text">Chess.com Global Learning Club is a club that dedicates itself for teaching chess.com users to improve and enjoy their game. Here at the Chess.com Global Learning Club, we share techniques to make ourselves better at the game. Anyone who joins can post ideas, openings, endgame strategies, or even puzzles so everyone can learn but have fun. Join now! and have fun. By: kamalesh25 (kamalesh) and The EpicChessAttacker (sreyansh)</p>
+                                <p className="card-text">Chess.com Global Learning Club is a club that dedicates itself for teaching chess.com users to improve and enjoy their game. Here at the Chess.com Global Learning Club, we share techniques to make ourselves better at the game. Anyone who joins can post ideas, openings, endgame strategies, or even puzzles so everyone can learn but have fun. Join now! and have fun. By: kamalesh25 (kamalesh) and The EpicChessAttacker</p>
                             </div>
                         </div>
                     </div>
